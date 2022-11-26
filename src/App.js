@@ -4,7 +4,7 @@ import ColorSelect from './CIA2/ColorSelect';
 function App() {
   return ( 
     <>
-    <ColorSelect/>
+    <MyFormValidate/>
     </>
    );
 }
